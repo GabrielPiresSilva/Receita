@@ -1,6 +1,6 @@
-#pastel de frango
+# pastel de frango
 
-##INGREDIENTES
+## INGREDIENTES
 
  - 2 colheres (sopa) de óleo
  - 1 cebola pequena picada (100 g)
