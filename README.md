@@ -1,3 +1,3 @@
-	# Receitas
+# Receitas
 
  - Basta ler
